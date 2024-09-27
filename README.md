@@ -20,10 +20,13 @@
   <h3>🧰 Frameworks and Libraries</h3>
   <p>
       <a href="#"><img alt="Django" src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF"></a>
+      <a href="#"><img alt="DRF" src="https://img.shields.io/static/v1?label=&message=DRF&color=092E20&logo=Django&logoColor=white"></a>
       <a href="#"><img alt="FastAPI" src="https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+      <a href="#"><img alt="Selenium " src="https://img.shields.io/static/v1?label=&message=Selenium &color=092E20&logo=Selenium&logoColor=white"></a>
+  
   </p>
   <h3>🗄️ Databases </h3>
   <p>
@@ -44,6 +47,10 @@
 
 <h2 align="center">:heart: Let's get connected:</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/minkeviiich/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://t.me/minkeviiich/"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:minkeviiich@gmail.com?subject=Hello%20Alexander,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/minkeviiich/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://instagram.com/minkeviiich/"><img src="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
