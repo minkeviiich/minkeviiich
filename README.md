@@ -8,7 +8,7 @@
 
 <h2 align="center">👨🏻‍💻 About Me:</h2>
 <p align="center">
-  <samp> Hi 🙌 My name is Alexander, and I am a backend developer with experience in creating web applications. I am proficient in Python 3+, Django, and DRF, and I have a sufficient level of English to read technical literature. I have worked on projects related to event search and organization, as well as marketplaces. I also have experience in automated testing. </samp>
+  <samp> Hi 🙌 My name is Alexander, and I am a backend developer with experience in creating web applications. I am proficient in Python 3+, Django,DRF and FastAPI, and I have a sufficient level of English to read technical literature. I have worked on projects related to event search and organization, as well as marketplaces. I also have experience in automated testing. </samp>
  
 <h2 align="center">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <div align="center">
