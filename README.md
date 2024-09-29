@@ -22,6 +22,7 @@
       <a href="#"><img alt="Django" src="https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF"></a>
       <a href="#"><img alt="DRF" src="https://img.shields.io/static/v1?label=&message=DRF&color=092E20&logo=Django&logoColor=white"></a>
       <a href="#"><img alt="FastAPI" src="https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF"></a>
+      <a href="#"><img alt="Redis" src="https://img.shields.io/static/v1?label=&message=Redis&color=black&logo=Redis&logoColor=FFFFFF"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
@@ -31,7 +32,8 @@
   <h3>🗄️ Databases </h3>
   <p>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLAlchemy" src ="https://img.shields.io/badge/SQLAlchemy-black.svg?logo=SQLAlchemy&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-07405e.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
   <h3>💻 Software and Tools</h3>
