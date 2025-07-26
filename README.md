@@ -25,7 +25,6 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-      <a href="#"><img alt="Selenium " src="https://img.shields.io/static/v1?label=&message=Selenium &color=092E20&logo=Selenium&logoColor=white"></a>
   
   </p>
   <h3>🗄️ Databases </h3>
